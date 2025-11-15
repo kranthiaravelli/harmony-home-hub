@@ -20,7 +20,7 @@ const Index = () => {
   const tiles = [
     { icon: Receipt, label: "Bills", color: "bg-primary", path: "/bills" },
     { icon: MessageSquare, label: "Complaints", color: "bg-accent", path: "/complaints" },
-    { icon: UsersIcon, label: "Visitors", color: "bg-highlight", path: "/visitors" },
+    { icon: UsersIcon, label: "Communities", color: "bg-highlight", path: "/communities" },
     { icon: Megaphone, label: "Notices", color: "bg-secondary", path: "/notices" },
   ];
 
